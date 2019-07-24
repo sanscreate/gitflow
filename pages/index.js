@@ -5,6 +5,7 @@ const Index = () =>
     <button> c </button>
     <button> b </button>
     <button> e </button>
+
     <p>Bye Next.js</p>
   </div>;
 
