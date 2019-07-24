@@ -2,6 +2,7 @@ const Index = () =>
   <div>
     <p>Hello Next.js</p>
     <button> a </button>
+    <button> b </button>
     <p>Bye Next.js</p>
   </div>;
 
