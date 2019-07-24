@@ -4,8 +4,6 @@ const Index = () =>
     <button> a </button>
     <button> c </button>
     <button> b </button>
-    <button> e </button>
-
     <p>Bye Next.js</p>
   </div>;
 
